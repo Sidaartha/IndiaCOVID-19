@@ -1,0 +1,131 @@
+{
+    "last_updated_time": "17.03.2020 at 05:15 PM",
+    "total_cases": "137",
+    "total_domestic_cases": "113",
+    "total_cured_cases": "\n14\n",
+    "total_international_cases": "\n24\n",
+    "screened_at_airport": "Total number of passengers screened at airport   :   13,54,858  ",
+    "states": {
+        "Karnataka": {
+            "death_cases": "1",
+            "domestic_cases": "11",
+            "international_cases": "0",
+            "name": "Karnataka",
+            "cured_cases": "0",
+            "sl.no": "4"
+        },
+        "Rajasthan": {
+            "death_cases": "0",
+            "domestic_cases": "2",
+            "international_cases": "2",
+            "name": "Rajasthan",
+            "cured_cases": "3",
+            "sl.no": "9"
+        },
+        "Haryana": {
+            "death_cases": "0",
+            "domestic_cases": "1",
+            "international_cases": "14",
+            "name": "Haryana",
+            "cured_cases": "0",
+            "sl.no": "3"
+        },
+        "Kerala": {
+            "death_cases": "0",
+            "domestic_cases": "24",
+            "international_cases": "2",
+            "name": "Kerala",
+            "cured_cases": "3",
+            "sl.no": "5"
+        },
+        "Maharashtra": {
+            "death_cases": "1",
+            "domestic_cases": "36",
+            "international_cases": "3",
+            "name": "Maharashtra",
+            "cured_cases": "0",
+            "sl.no": "6"
+        },
+        "Union Territory of Ladakh": {
+            "death_cases": "0",
+            "domestic_cases": "6",
+            "international_cases": "0",
+            "name": "Union Territory of Ladakh",
+            "cured_cases": "0",
+            "sl.no": "13"
+        },
+        "Union Territory of Jammu and Kashmir": {
+            "death_cases": "0",
+            "domestic_cases": "3",
+            "international_cases": "0",
+            "name": "Union Territory of Jammu and Kashmir",
+            "cured_cases": "0",
+            "sl.no": "12"
+        },
+        "Tamil Nadu": {
+            "death_cases": "0",
+            "domestic_cases": "1",
+            "international_cases": "0",
+            "name": "Tamil Nadu",
+            "cured_cases": "0",
+            "sl.no": "10"
+        },
+        "Punjab": {
+            "death_cases": "0",
+            "domestic_cases": "1",
+            "international_cases": "0",
+            "name": "Punjab",
+            "cured_cases": "0",
+            "sl.no": "8"
+        },
+        "Telengana": {
+            "death_cases": "0",
+            "domestic_cases": "3",
+            "international_cases": "2",
+            "name": "Telengana",
+            "cured_cases": "1",
+            "sl.no": "11"
+        },
+        "Andhra Pradesh": {
+            "death_cases": "0",
+            "domestic_cases": "1",
+            "international_cases": "0",
+            "name": "Andhra Pradesh",
+            "cured_cases": "0",
+            "sl.no": "1"
+        },
+        "Delhi": {
+            "death_cases": "1",
+            "domestic_cases": "8",
+            "international_cases": "0",
+            "name": "Delhi",
+            "cured_cases": "2",
+            "sl.no": "2"
+        },
+        "Odisha": {
+            "death_cases": "0",
+            "domestic_cases": "1",
+            "international_cases": "0",
+            "name": "Odisha",
+            "cured_cases": "0",
+            "sl.no": "7"
+        },
+        "Uttarakhand": {
+            "death_cases": "0",
+            "domestic_cases": "1",
+            "international_cases": "0",
+            "name": "Uttarakhand",
+            "cured_cases": "0",
+            "sl.no": "15"
+        },
+        "Uttar Pradesh": {
+            "death_cases": "0",
+            "domestic_cases": "14",
+            "international_cases": "1",
+            "name": "Uttar Pradesh",
+            "cured_cases": "5",
+            "sl.no": "14"
+        }
+    },
+    "total_death_cases": "\n3\n"
+}
