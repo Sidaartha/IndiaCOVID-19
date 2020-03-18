@@ -9,7 +9,7 @@ def load_json(filename):
 		return json.load(f)
 
 dt_obj = datetime.datetime.now()
-dt_str = dt_obj.strftime("%y_%m_%d_%H_%M")
+dt_str = dt_obj.strftime("%y-%m-%d")
 list_files = os.listdir("../DataJSON/")
 list_files.sort()
 ref_file = load_json("../DataJSON/"+list_files[-1])
